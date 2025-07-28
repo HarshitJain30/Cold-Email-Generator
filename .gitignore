@@ -1,3 +1,17 @@
-venv/ 
-__pycache__/ 
-.venv 
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Vector Stores
+vectorstore/
+
+# Data files (optional: add if the CSV is large or has sensitive data)
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
